@@ -1,9 +1,0 @@
----
-title: "README.rmd"
-output: html_document
----
-
-```{r}
-hist(rnorm(10))
-```
-
